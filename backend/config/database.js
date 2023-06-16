@@ -12,4 +12,4 @@ const connectDatabase = ()=>{
 
 }
 
-module.expors = connectDatabase
+module.exports = connectDatabase
